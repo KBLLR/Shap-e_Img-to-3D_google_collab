@@ -1,1 +1,1 @@
-# Shap-e_Img-to-3D_google_collab
+# SHAP-E_ IMG-to-3D Collab_xperiment
